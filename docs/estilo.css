@@ -1,0 +1,57 @@
+body{
+    font-family: 'Netflix Sans', Arial, sans-serif; /* Utilizamos una fuente similar a la de Netflix */
+    background: #ECE9E6;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #FFFFFF, #ECE9E6);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #FFFFFF, #ECE9E6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+}
+.card{
+    background: #ff2020;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #EAEAEA, #DBDBDB, #F2F2F2, #ADA996);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #EAEAEA, #DBDBDB, #F2F2F2, #ADA996); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgb(65, 53, 16);
+    transition: box-shadow 0.3s ease;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    
+}
+#mi-navbar {
+    background: #ECE9E6;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #FFFFFF, #ECE9E6);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #FFFFFF, #ECE9E6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+    
+   }
+
+#footeeer{
+    background: #0575E6;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #021B79, #0575E6);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #021B79, #0575E6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+
+
+}
+#carouselExampleFade{
+    background-image: url("game-console-6603120_1920.jpg");
+}
+#xbox{
+    background-image: url("xbox-1602822_1280.jpg");
+}
+.card1{
+    background: #ED213A;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #93291E, #ED213A);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #93291E, #ED213A); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    color: white;
+    height: 500px;
+    border-radius: 20px;
+}
+h5 {
+    color: rgb(0, 0, 0);
+}
+.card-title{
+    font-weight: bold;
+}
